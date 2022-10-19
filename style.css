@@ -1,0 +1,27 @@
+.btn {
+    background-color: #000000;
+    color: white;
+    display: inline;
+    padding: 5px;
+
+}
+
+.btn:hover {
+    background-color: grey;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}
+
+#font {
+    height: 30px;
+    background-color: #000000;
+    color: white;
+
+}
+
+textarea {
+    resize: none;
+}
