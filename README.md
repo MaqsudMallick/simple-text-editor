@@ -8,3 +8,6 @@
 - add more fonts
 - generate line numbers
 - bold and italic text
+
+
+link: https://maqsudmallick.github.io/simple-text-editor/
